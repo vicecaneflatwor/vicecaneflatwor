@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vicecaneflatwo 👋
 
-<!--
-**vicecaneflatwor/vicecaneflatwor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on developer tooling and automation.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages** — TypeScript, Go, Rust, Python
+- **Infra** — Docker, PostgreSQL, Redis, Linux
+- **Focus** — API design, automation pipelines, developer experience
+
+## Currently
+
+Building internal tooling and exploring LLM-assisted engineering workflows.
+
+## Projects
+
+- [dev-toolkit](https://github.com/vicecaneflatwor/dev-toolkit) — recurring dev chores, scripted
+- [api-playground](https://github.com/vicecaneflatwor/api-playground) — HTTP API and protocol client experiments
+
+---
+
+*Based in Singapore*
